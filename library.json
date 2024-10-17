@@ -1,0 +1,20 @@
+{
+    "name": "ebs-task-blink",
+    "version": "0.1.0",
+    "description": "Simple Blink Task",
+    "keywords": ["ebs", "task"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ebs-universe/piolib-task-blink"
+    },
+    "authors": {
+        "name": "Chintalagiri Shashank",
+        "email": "shashank.chintalagiri@gmail.com",
+        "url": "https://github.com/chintal",
+        "maintainer": true
+    },
+    "license": "LGPL-3.0-or-later",
+    "homepage": "https://ebs-universe.github.io/piolib-task-blink",
+    "frameworks": "*",
+    "platforms": "*"
+}
